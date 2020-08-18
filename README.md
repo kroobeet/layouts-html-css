@@ -1,5 +1,5 @@
 # layouts-html-css
-ver 0.0.0.5
+ver 0.0.0.6
 
 ## ЧЕК-ЛИСТ
 ФВ - Финальная версия
@@ -29,6 +29,7 @@ ver 0.0.0.5
 - [lesson_03] - Группировка ячеек HTML таблиц
 - [lesson_04] - две страницы со стилями
 - [lesson_05] - обезьяна
+- [lesson_06] - меню
 
 ### FIX'ы
 - отсутствуют
@@ -45,3 +46,4 @@ ver 0.0.0.5
 [lesson_03]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/lessons/lesson_03/index.html
 [lesson_04]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/lessons/lesson_04/page_1.html
 [lesson_05]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/lessons/lesson_05/index.html
+[lesson_06]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/lessons/lesson_06/index.html
