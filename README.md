@@ -1,7 +1,7 @@
 # layouts-html-css
-ver 0.0.0.2
+ver 0.0.0.3
 
-##ЧЕК-ЛИСТ
+## ЧЕК-ЛИСТ
 ФВ - Финальная версия
 
 - [ ] Макет 01 (ФВ ver 0.1.0)
@@ -23,9 +23,10 @@ ver 0.0.0.2
 - [Layout 05] - Макет 05 (Пока отсутствует)
 - [Layout 06] - Макет 06 (Пока отсутствует)
 
-##просмотр lessons
+## Просмотр lessons
 - [lesson_01] - три страницы
 - [lesson_02] - таблица
+- [lesson_03] - Группировка ячеек HTML таблиц
 
 ### FIX'ы
 - отсутствуют
@@ -39,3 +40,4 @@ ver 0.0.0.2
 
 [lesson_01]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/lessons/lesson_01/page_1.html
 [lesson_02]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/lessons/lesson_02/index.html
+[lesson_03]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/lessons/lesson_03/index.html
