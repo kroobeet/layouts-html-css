@@ -1,0 +1,47 @@
+div {
+    width: 45%;
+}
+
+h1 {
+    color: red;
+}
+
+h2 {
+    color: green;
+}
+
+p {
+    text-align: justify;
+    line-height: 30px;
+    word-spacing: 5px;
+    font-size: 14px;
+}
+
+i {
+    color: blue;
+}
+
+ol li {
+    color: red;
+}
+
+ul li {
+    color: #be4a4a;
+    font-style: italic;
+
+}
+
+ul li i {
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.css {
+    font-weight: bold;
+}
+
+b {
+    color: red;
+    font-size: 20px;
+}

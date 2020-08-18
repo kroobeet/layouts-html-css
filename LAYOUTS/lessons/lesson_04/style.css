@@ -1,0 +1,27 @@
+div {
+    width: 400px;
+    line-height: 30px;
+}
+h3, h4 {
+    color: blue;
+    text-align: center;
+}
+
+.first {
+    margin-left: 30px;
+}
+
+i {
+    color: blue;
+}
+
+b {
+    color: red;
+}
+
+p {
+    font-size: 16px;
+    font-family: "Arial", sans-serif;
+    word-spacing: 5px;
+    text-align: justify;
+}
