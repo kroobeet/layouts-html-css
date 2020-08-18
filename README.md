@@ -1,5 +1,5 @@
 # layouts-html-css
-ver 0.0.0.1
+ver 0.0.0.2
 
 ##ЧЕК-ЛИСТ
 ФВ - Финальная версия
@@ -24,7 +24,8 @@ ver 0.0.0.1
 - [Layout 06] - Макет 06 (Пока отсутствует)
 
 ##просмотр lessons
-- [lesson_01]
+- [lesson_01] - три страницы
+- [lesson_02] - таблица
 
 ### FIX'ы
 - отсутствуют
@@ -37,3 +38,4 @@ ver 0.0.0.1
 [Layout 06]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/06/index.html
 
 [lesson_01]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/lessons/lesson_01/page_1.html
+[lesson_02]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/lessons/lesson_02/index.html
