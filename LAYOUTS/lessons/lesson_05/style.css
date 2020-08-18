@@ -1,0 +1,14 @@
+div {
+    width: 41%;
+    text-align: justify;
+}
+
+#one {
+    float: left;
+    margin-right: 20px;
+}
+
+#two {
+    float: right;
+    margin-left: 20px;
+}
