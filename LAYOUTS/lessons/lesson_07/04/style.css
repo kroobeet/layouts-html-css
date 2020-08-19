@@ -1,0 +1,111 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.clearfix {
+    clear: both;
+}
+
+.wrapper {
+    padding-left: 30%;
+    padding-top: 10px;
+}
+
+h1 {
+    text-align: center;
+    margin: 20px;
+}
+
+.content {
+    width: 60%;
+    border: 1px solid black;
+    margin-bottom: 20px;
+}
+
+span {
+    color: blue;
+}
+
+span:hover {
+    color: green;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+p {
+    font-size: 18px;
+}
+p:nth-child(1n) {
+    margin-bottom: 10px;
+}
+
+
+
+
+/* MENU_1 */
+
+.menu_1 {
+    background-color: #3b3a3a;
+    margin: 0;
+}
+
+.menu_1 ul li {
+    float: left;
+    text-align: center;
+}
+
+.menu_1 ul {
+    list-style-type: none;
+}
+.menu_1 li:not(:first-child) {
+    margin-left: 10px;
+}
+
+.menu_1 a {
+    color: white;
+    display: block;
+    padding: 10px;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 10px;
+    text-decoration: none;
+}
+
+.menu_1 a:hover {
+    background-color: #ffffff;
+    color: #3b3a3a;
+}
+
+
+
+
+/* MENU */
+.menu ul {
+    list-style-type: none;
+}
+
+.menu ul li {
+    float: left;
+}
+
+.menu li:not(:first-child) {
+    margin-left: 5px;
+}
+
+.menu a {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.menu a {
+    color: blue;
+}
+
+.menu a:hover {
+    color: red;
+}
+
+.menu {
+    margin-top: 20px;
+}
