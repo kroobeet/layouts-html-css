@@ -1,0 +1,76 @@
+.clearfix {
+    clear: both;
+}
+
+.wrapper {
+    padding-left: 20%;
+}
+
+.content {
+    width: 70%;
+    color: green;
+    border: 2px dashed green;
+    border-radius: 15px;
+}
+
+.par {
+    text-align: right;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+span {
+    font-weight: bold;
+}
+
+h2, h1 {
+    text-align: center;
+}
+
+h2, span {
+    text-decoration: underline;
+}
+
+h2:hover {
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
+
+span:hover {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+
+
+    /* MENU */
+.menu ul {
+    list-style-type: none;
+}
+
+.menu ul li {
+    float: left;
+}
+
+.menu li:not(:first-child) {
+    margin-left: 5px;
+}
+
+.menu a {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.menu a {
+    color: blue;
+}
+
+.menu a:hover {
+    color: red;
+}
+
+.menu {
+    margin-top: 20px;
+}
