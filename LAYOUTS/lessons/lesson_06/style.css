@@ -11,7 +11,7 @@ a {
     text-decoration: none;
 }
 
-.menu_2 ul, .menu_3 ul, .menu_4 ul, .menu_5 ul, .menu_6 ul, .menu_7 ul, .menu_8 ul{
+.menu_2 ul, .menu_3 ul, .menu_4 ul, .menu_5 ul, .menu_6 ul, .menu_7 ul, .menu_8 ul {
     list-style-type: none;
 }
 
@@ -173,4 +173,41 @@ a {
 
 .menu_8 a:hover {
     background-color: #d74008;
+}
+
+/* MENU_9 */
+th {
+    font-weight: lighter;
+}
+table tr th:nth-child(6n), table tr th:nth-child(7n), table tr td:nth-child(6n), table tr td:nth-child(7n) {
+    color: #818181;
+}
+
+table tr th:hover, table tr td:hover {
+    text-decoration: underline;
+    cursor: pointer;
+    background-color: #2196f3;
+}
+
+tr td:nth-child(6):hover, tr td:nth-child(7):hover, tr th:nth-child(6):hover, tr th:nth-child(7):hover {
+    background-color: #6cb4e9;
+}
+
+tr:nth-child(1) th {
+    border-bottom: 1px solid black;
+}
+
+table tr {
+    line-height: 30px;
+}
+
+table .active {
+    color: red;
+    background-color: #bcbcbc;
+    font-weight: bold;
+}
+
+tr:nth-child(2) td:nth-child(-n+5):hover {
+    background-color: white;
+    cursor: auto;
 }
