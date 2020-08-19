@@ -1,0 +1,134 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.clearfix {
+    clear: both;
+}
+
+.wrapper {
+    text-align: center;
+}
+
+.content {
+    width: 70%;
+    border: 1px solid orange;
+    border-top: 0;
+    display: inline-block;
+}
+
+.footer {
+    text-align: center;
+}
+
+div.footer > div {
+    display: inline-block;
+}
+
+h1, h2 {
+    color: #7a4834;
+    text-align: center;
+}
+
+p {
+    color: #c36745;
+    line-height: 30px;
+    margin: 5px;
+    font-size: 18px;
+    text-align: justify;
+}
+
+p:first-letter {
+    margin-left: 50px;
+}
+
+/* MENU_1 */
+.menu_1 ul, .footer ul{
+    list-style-type: none;
+}
+
+.menu_1 {
+    background-color: orange;
+    text-align: left;
+    margin-bottom: 30px;
+}
+
+.menu_1 ul li {
+    float: left;
+}
+/*.menu_1 li:not(:first-child) {
+    padding-left: 30px;
+}*/
+
+.menu_1 a {
+    color: white;
+    display: block;
+    padding: 20px 30px 20px 30px;
+    text-decoration: none;
+}
+
+.menu_1 a:hover {
+    background-color: white;
+    color: orange;
+}
+
+.menu_1 a.active {
+    background-color: white;
+    color: orange;
+}
+
+.footer {
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+
+.footer ul li {
+    float: left;
+    color: #7a4834;
+    font-weight: bold;
+}
+
+.footer ul li:hover {
+    color: black;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.footer li:not(:first-child) {
+    margin-left: 30px;
+}
+
+/* MENU */
+h3 {
+    text-align: left;
+}
+
+.menu ul {
+    list-style-type: none;
+}
+
+.menu ul li {
+    float: left;
+}
+
+.menu li:not(:first-child) {
+    margin-left: 5px;
+}
+
+.menu a {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.menu a {
+    color: blue;
+}
+
+.menu a:hover {
+    color: red;
+}
+
+.menu {
+    margin-top: 20px;
+}
