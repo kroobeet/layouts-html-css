@@ -1,0 +1,78 @@
+.clearfix {
+    clear: both;
+}
+.wrapper {
+    padding-left: 17%;
+}
+.content {
+    width: 70%;
+    border: 1px solid red;
+    border-radius: 5%;
+    padding: 3%;
+}
+
+span:not(.author) {
+    color: blue;
+    text-decoration: underline;
+}
+
+span:hover:not(.author) {
+    color: green;
+    text-decoration: none;
+}
+
+.author:nth-child(1) {
+    margin-bottom: 50px;
+}
+
+.author {
+    float: right;
+    font-style: italic;
+    margin-right: 50px;
+    font-size: 12px;
+}
+
+h1, h2 {
+    color: #c4331c;
+}
+
+p:not(:nth-child(1)) {
+    margin-top: 30px;
+}
+
+p.red {
+    color: red;
+}
+
+p.green {
+    color: green;
+}
+/* MENU */
+.menu ul {
+    list-style-type: none;
+}
+
+.menu ul li {
+    float: left;
+}
+
+.menu li:not(:first-child) {
+    margin-left: 5px;
+}
+
+.menu a {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.menu a {
+    color: blue;
+}
+
+.menu a:hover {
+    color: red;
+}
+
+.menu {
+    margin-top: 20px;
+}
