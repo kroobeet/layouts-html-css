@@ -3,6 +3,16 @@
     margin: 0;
 }
 
+span {
+    font-weight: bold;
+    text-decoration: underline;
+}
+span:hover {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
 .clearfix {
     clear: both;
 }
