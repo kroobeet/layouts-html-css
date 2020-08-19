@@ -129,6 +129,17 @@ a {
     background-color: #3b3a3a;
     color: white;
 }
+@media screen and (max-width: 425px) {
+    .menu_6 a, .menu_5 a {
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .menu_6 a, .menu_5 a {
+        font-size: 8px;
+    }
+}
 
 /* MENU_7 */
 .menu_7 a {
@@ -147,6 +158,27 @@ a {
 
 .menu_7 i {
     font-size: 50px;
+}
+
+@media screen and (max-width: 425px) {
+    .menu_7 i {
+        font-size: 30px;
+    }
+    .menu_7 li:not(:first-child)>a {
+        margin-left: 8px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .menu_7 i {
+        font-size: 30px;
+    }
+    .menu_7 li:not(:first-child)>a {
+        margin-left: 5px;
+    }
+    .menu_7 a {
+        font-size: 12px;
+    }
 }
 
 /* MENU_8 */
@@ -173,6 +205,31 @@ a {
 
 .menu_8 a:hover {
     background-color: #d74008;
+}
+
+@media screen and (max-width: 1024px) {
+    .menu_8 a{
+        width: 70px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .menu_8 a {
+        width: 50px;
+    }
+}
+@media screen and (max-width: 425px) {
+    .menu_8 a {
+        width: 10px;
+        font-size: 10px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .menu_8 a {
+        width: 5px;
+        font-size: 5px;
+    }
 }
 
 /* MENU_9 */
@@ -210,4 +267,13 @@ table .active {
 tr:nth-child(2) td:nth-child(-n+5):hover {
     background-color: white;
     cursor: auto;
+}
+
+@media screen and (max-width: 375px) {
+    .menu_9 td {
+        font-size: 15px;
+    }
+    table {
+        width: 300px;
+    }
 }
