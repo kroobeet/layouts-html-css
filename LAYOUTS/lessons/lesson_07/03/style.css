@@ -1,0 +1,100 @@
+.clearfix {
+    clear: both;
+}
+li {
+    list-style-type: none;
+}
+
+li a {
+    text-decoration: none;
+}
+
+.wrapper {
+    padding-left: 20%;
+}
+
+.content {
+    width: 60%;
+    text-align: justify;
+    border: 1px solid black;
+    padding: 20px 20px 60px 20px;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+h2 {
+    color:hotpink;
+}
+
+h2:hover {
+    color: black;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+span {
+    color: green;
+}
+
+span:hover {
+    color: red;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.content:not(:last-child) {
+    margin-bottom: 20px;
+}
+
+.content a {
+    float: right;
+    text-decoration: none;
+    color: deeppink;
+    font-size: 1em;
+    font-weight: bold;
+    margin-right: 20px;
+    padding: 2px 5px 2px 5px;
+}
+
+.content a:hover {
+    border-radius: 10px;
+    background-color: deeppink;
+    color: white;
+}
+
+
+p:first-letter {
+    margin-left: 50px;
+}
+
+p {
+    line-height: 25px;
+}
+
+/* MENU */
+.menu ul {
+    list-style-type: none;
+}
+
+.menu ul li {
+    float: left;
+}
+
+.menu li:not(:first-child) {
+    margin-left: 5px;
+}
+
+.menu a {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.menu a {
+    color: blue;
+}
+
+.menu a:hover {
+    color: red;
+}
