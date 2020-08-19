@@ -1,3 +1,11 @@
+li {
+    list-style-type: none;
+}
+
+li a {
+    text-decoration: none;
+}
+
 .wrapper {
     padding-left: 20%;
 }
@@ -13,13 +21,13 @@
     margin-bottom: 20px;
 }
 
-a {
+.content a {
     float: right;
     text-decoration: none;
     color: blue;
 }
 
-a:hover {
+.content a:hover {
     text-decoration: underline;
 
 }
@@ -31,4 +39,30 @@ h2 {
 h2:hover {
     text-decoration: underline;
     cursor: pointer;
+}
+
+/* MENU */
+.menu ul {
+    list-style-type: none;
+}
+
+.menu ul li {
+    float: left;
+}
+
+.menu li:not(:first-child) {
+    margin-left: 5px;
+}
+
+.menu a {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.menu a {
+    color: blue;
+}
+
+.menu a:hover {
+    color: red;
 }
