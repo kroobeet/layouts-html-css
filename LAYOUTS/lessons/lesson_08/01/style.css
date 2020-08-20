@@ -1,13 +1,30 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
 ul {
     display: flex;
-    width: 600px;
+    width: 900px;
     flex-direction: row;
-    border: 1px solid #3d3df5;
     padding: 0px;
+    justify-content: space-between;
+    background-color: #5e5ef5;
+    border: 1px solid #3d3df5;
 }
 
 li {
-    padding: 10px;
-    border: 1px solid #3d3df5;
+    display: flex;
     list-style-type: none;
+}
+
+a {
+    padding: 20px;
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    color: #2196f3;
+    background-color: white;
 }
