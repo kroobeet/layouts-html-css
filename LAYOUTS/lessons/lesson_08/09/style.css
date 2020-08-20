@@ -1,0 +1,22 @@
+body {
+	display: flex;
+	justify-content: center;
+}
+
+ul {
+	display: flex;
+	list-style-type: none;
+	flex-direction: row;
+	justify-content: space-between;
+	border: 2px solid blue;
+	padding: 0;
+	width: 500px;
+	flex-wrap: wrap;
+}
+
+li {
+	display: flex;
+	border: 1px solid #8596FF;
+	padding: 50px;
+	margin-bottom: 20px;
+}
