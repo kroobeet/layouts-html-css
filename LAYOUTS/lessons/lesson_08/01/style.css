@@ -1,0 +1,13 @@
+ul {
+    display: flex;
+    width: 600px;
+    flex-direction: row;
+    border: 1px solid #3d3df5;
+    padding: 0px;
+}
+
+li {
+    padding: 10px;
+    border: 1px solid #3d3df5;
+    list-style-type: none;
+}
