@@ -7,7 +7,7 @@ ul {
     display: flex;
     width: 900px;
     flex-direction: row;
-    padding: 0px;
+    padding: 0;
     justify-content: space-between;
     background-color: #5e5ef5;
     border: 1px solid #3d3df5;
