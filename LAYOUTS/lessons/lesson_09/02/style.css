@@ -1,0 +1,29 @@
+body {
+	display: flex;
+}
+
+.block {
+	display: flex;
+}
+
+.block div {
+	width: 50px
+	height: 50px;
+	position: absolute;
+}
+
+div.bl1 {
+	background: red;
+}
+
+div.bl2 {
+	background: blue;
+	margin-left: 30px
+	margin-top: 30px;
+}
+
+div.bl3 {
+	background: green;
+	margin-left: 60px
+	margin-top: 60px;
+}
