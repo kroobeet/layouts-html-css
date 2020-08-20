@@ -1,5 +1,5 @@
 # layouts-html-css
-ver 0.0.0.9.7
+ver 0.0.0.9.8
 
 ## ЧЕК-ЛИСТ
 ФВ - Финальная версия
@@ -32,6 +32,17 @@ ver 0.0.0.9.7
 - [lesson_06] - меню
 - [lesson_07] - несколько простейших шаблонов
 
+- [lesson_08_1] - менюшка на flex 1
+- [lesson_08_2] - менюшка на flex 2
+- [lesson_08_3] - менюшка на flex 3
+- [lesson_08_4] - менюшка на flex 4
+- [lesson_08_5] - менюшка на flex 5
+- [lesson_08_6] - менюшка на flex 6
+- [lesson_08_7] - менюшка на flex 7
+- [lesson_08_8] - менюшка на flex 8
+- [lesson_08_9] - менюшка на flex 9
+- [lesson_08_10] - менюшка на flex 10
+
 ### FIX'ы
 - отсутствуют
 
@@ -49,3 +60,14 @@ ver 0.0.0.9.7
 [lesson_05]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/lessons/lesson_05/index.html
 [lesson_06]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/lessons/lesson_06/index.html
 [lesson_07]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/lessons/lesson_07/01/index.html
+[lesson_08_1]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/lessons/lesson_08/01/index.html
+[lesson_08_2]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/lessons/lesson_08/02/index.html
+[lesson_08_3]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/lessons/lesson_08/03/index.html
+[lesson_08_4]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/lessons/lesson_08/04/index.html
+[lesson_08_5]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/lessons/lesson_08/05/index.html
+[lesson_08_6]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/lessons/lesson_08/06/index.html
+[lesson_08_7]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/lessons/lesson_08/07/index.html
+[lesson_08_8]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/lessons/lesson_08/08/index.html
+[lesson_08_9]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/lessons/lesson_08/09/index.html
+[lesson_08_10]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/lessons/lesson_08/10/index.html
+
