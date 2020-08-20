@@ -1,0 +1,33 @@
+body {
+	display: flex;
+	justify-content: center;
+}
+
+ul {
+	display: flex;
+	flex-direction: row;
+	width: 680px;
+	height: auto;
+	justify-content: center;
+	list-style-type: none;
+	padding: 0;
+	border: 1px solid #476AFF;
+	background: #4799FF;
+	flex-wrap: wrap;
+}
+
+li {
+	display: flex;
+}
+
+a {
+	text-decoration: none;
+	padding: 10px;
+	color: white;
+	text-align: center;
+}
+
+a:hover {
+	color: #4799FF;
+	background: white;
+}
