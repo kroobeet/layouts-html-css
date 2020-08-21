@@ -89,5 +89,8 @@ header span {
 }*/
 
 footer {
-    display: none;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    font-size: 0.8em;
 }
