@@ -33,7 +33,7 @@ Project ver 0.0.0.12.0
 
 ## FlexBox Examples
 - [lesson_09_06] - Зелёная голова с кислой миной :D
-- [lesson_09_07] - Жёлтая голова с улыбкой
+- [lesson_09_07] - Fixed header
 
 ### FIX'ы
 - отсутствуют
