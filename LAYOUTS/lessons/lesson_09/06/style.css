@@ -11,13 +11,9 @@ body {
 	border-radius: 50%;
 }
 
-.head div.square {
-	justify-content: center;
-}
-
 .square {
 	width: 100%;
-	height: 25%;
+	height: 100%;
 	position: relative;
 }
 
@@ -25,8 +21,9 @@ body {
 	display: flex;
 	flex-direction: row;
 	width: 100%;
-	height: 100%;
+	height: 25%;
 	justify-content: space-around;
+	margin-top: 15%;
 }
 
 .eye {
@@ -34,4 +31,21 @@ body {
 	position: relative;
 	background: white;
 	border-radius: 50%;
+}
+
+.nouse {
+	width: 20%;
+	height: 20%;
+	background-color: #fff;
+	position: relative;
+	margin-left: 40%;
+}
+
+.mouth {
+	width: 50%;
+	height: 5%;
+	background-color: #fff;
+	position: relative;
+	margin-top: 10%;
+	margin-left: 25%;
 }
