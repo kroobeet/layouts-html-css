@@ -1,19 +1,10 @@
 # layouts-html-css
-ver 0.0.0.11.0
+Project ver 0.0.0.12.0
 
 ## ЧЕК-ЛИСТ
-ФВ - Финальная версия
+- [Чек-лист] - нажмите, чтобы посмотреть
  
-- [ ] Макет 01 (ФВ ver 0.1.0)
-  - [ ] элементы в процессе вёрстки
-- [ ] Макет 02 (ФВ ver 0.2.0)
-- [ ] Макет 03 (ФВ ver 0.3.0)
-- [ ] Макет 04 (ФВ ver 0.4.0)
-- [ ] Макет 05 (ФВ ver 0.5.0)
-- [ ] Макет 06 (release 1.0) 
-<br><br>
-- [ ] lessons (ФВ ver 0.0.1.0)
-  - [x] элементы в процессе вёрстки
+
 
 ## Просмотр layouts
 - [Layout 01] - Макет 01 (В процессе вёрстки)
@@ -46,7 +37,8 @@ ver 0.0.0.11.0
 
 
 ## FlexBox Examples
-- [lesson_09_06] - Зелёная голова
+- [lesson_09_06] - Зелёная голова с кислой миной :D
+- [lesson_09_07] - Жёлтая голова с улыбкой
 
 ### FIX'ы
 - отсутствуют
@@ -65,6 +57,8 @@ ver 0.0.0.11.0
 [lesson_05]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/lessons/lesson_05/index.html
 [lesson_06]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/lessons/lesson_06/index.html
 [lesson_07]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/lessons/lesson_07/01/index.html
+
+
 [lesson_08_1]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/lessons/lesson_08/01/index.html
 [lesson_08_2]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/lessons/lesson_08/02/index.html
 [lesson_08_3]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/lessons/lesson_08/03/index.html
@@ -77,4 +71,6 @@ ver 0.0.0.11.0
 [lesson_08_10]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/lessons/lesson_08/10/index.html
 
 [lesson_09_06]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/lessons/lesson_09/06/index.html
+[lesson_09_07]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/lessons/lesson_09/07/index.html
 
+[Чек-лист]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/tasks.todo
