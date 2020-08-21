@@ -1,5 +1,5 @@
 # layouts-html-css
-ver 0.0.0.10.0
+ver 0.0.0.11.0
 
 ## ЧЕК-ЛИСТ
 ФВ - Финальная версия
@@ -44,6 +44,10 @@ ver 0.0.0.10.0
 - [lesson_08_9] - менюшка на flex 9
 - [lesson_08_10] - менюшка на flex 10
 
+
+## FlexBox Examples
+- [lesson_09_06] - Зелёная голова
+
 ### FIX'ы
 - отсутствуют
 
@@ -71,4 +75,6 @@ ver 0.0.0.10.0
 [lesson_08_8]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/lessons/lesson_08/08/index.html
 [lesson_08_9]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/lessons/lesson_08/09/index.html
 [lesson_08_10]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/lessons/lesson_08/10/index.html
+
+[lesson_09_06]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/lessons/lesson_09/06/index.html
 
