@@ -1,11 +1,6 @@
 # layouts-html-css
 Project ver 0.0.0.12.0
 
-## ЧЕК-ЛИСТ
-- [Чек-лист] - нажмите, чтобы посмотреть
- 
-
-
 ## Просмотр layouts
 - [Layout 01] - Макет 01 (В процессе вёрстки)
 - [Layout 02] - Макет 02 (Пока отсутствует)
@@ -72,5 +67,3 @@ Project ver 0.0.0.12.0
 
 [lesson_09_06]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/lessons/lesson_09/06/index.html
 [lesson_09_07]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/lessons/lesson_09/07/index.html
-
-[Чек-лист]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/tasks.todo
