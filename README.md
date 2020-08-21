@@ -1,5 +1,5 @@
 # layouts-html-css
-Project ver 0.0.0.12.0
+Project ver 0.0.0.16.0
 
 ## Просмотр layouts
 - [Layout 01] - Макет 01 (В процессе вёрстки)
@@ -7,7 +7,6 @@ Project ver 0.0.0.12.0
 - [Layout 03] - Макет 03 (Пока отсутствует)
 - [Layout 04] - Макет 04 (Пока отсутствует)
 - [Layout 05] - Макет 05 (Пока отсутствует)
-- [Layout 06] - Макет 06 (Пока отсутствует)
 
 ## Просмотр lessons
 - [lesson_01] - три страницы
@@ -43,7 +42,6 @@ Project ver 0.0.0.12.0
 [Layout 03]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/03/index.html
 [Layout 04]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/04/index.html
 [Layout 05]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/05/index.html
-[Layout 06]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/06/index.html
 
 [lesson_01]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/lessons/lesson_01/page_1.html
 [lesson_02]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/lessons/lesson_02/index.html
