@@ -58,7 +58,7 @@ a {
 
 a:hover {
     color: white;
-    background-color: #fdfdfe;
+    background-color: #585858;
 }
 
 .active {
@@ -73,6 +73,9 @@ a:hover {
     align-items: flex-start;
     width: 80%;
     background-color: white;
+    margin-bottom: 50px;
+    padding-bottom: 2%;
+
 }
 
 .left, .main, .right {
@@ -89,7 +92,7 @@ a:hover {
 
 .left p, .right p {
     font-size: 0.8em;
-    margin-top: 5%;
+    margin-top: 20px;
 }
 
 .main {
@@ -104,5 +107,62 @@ a:hover {
 }
 
 .main img {
+    width: 100%;
+    margin-top: 25px;
+}
+
+.right img {
+    width: 100%;
+    margin-top: 25px;
+}
+
+.wrap-footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: #242424;
+    width: 100%;
+}
+
+footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 80%;
+    background-color: #242424;
+}
+
+.content-footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    margin-top: 50px;
+}
+
+.block {
+    display: flex;
+    flex-direction: column;
+    background-color: #eaeaea;
+    width: 20%;
+    text-align: center;
+    padding: 10px 10px 50px 10px;
+}
+
+.line {
+    color: #585858;
+    width: 90%;
+    align-self: center;
+}
+
+.block span {
+    margin: 5px 5px;
+    font-size: 0.8em;
+}
+
+.copyright {
+    margin: 2% 0 2% 0;
+    color: white;
+    text-align: center;
     width: 100%;
 }
