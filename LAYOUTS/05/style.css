@@ -1,0 +1,126 @@
+body {
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    font-size: 1.8em;
+}
+
+.main-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #007f40;
+    width: 100%;
+    color: white;
+    padding-bottom: 20px;
+}
+
+header span {
+    font-size: 1.4em;
+}
+
+.info-about-site {
+    font-size: 3em;
+    font-weight: bold;
+}
+
+ol {
+    padding: 20px;
+}
+
+li {
+    color: red;
+    font-weight: bold;
+    font-size: 1.2em;
+    padding-left: 10px;
+}
+
+li span {
+    color: black;
+    font-weight: normal;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.services {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 70%;
+    text-align: justify;
+}
+
+.contacts {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    color: white;
+    background-color: #c50304;
+    padding-bottom: 20px;
+}
+
+.contacts span {
+    font-size: 1.2em;
+}
+
+.about {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 20px;
+    width: 70%;
+}
+
+.about p {
+    font-size: 1.2em;
+    text-align: justify;
+}
+
+.clients-wrapper {
+    display: flex;
+    flex-direction: column;
+    background-color: #fd7f40;
+    width: 100%;
+    align-items: center;
+}
+
+img {
+    border: 1px solid black;
+}
+
+.clients-wrapper h2 {
+    color: white;
+}
+
+.clients {
+    width: 70%;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+footer {
+    padding-top: 200px;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    background-color: #902f01;
+    justify-content: center;
+    color: white;
+    padding-bottom: 20px;
+}
