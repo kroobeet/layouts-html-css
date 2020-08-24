@@ -47,6 +47,8 @@ Project ver 1.0.0.16.0
 [Layout 03]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/03/index.html
 [Layout 04]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/04/index.html
 [Layout 05]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/05/index.html
+[Layout 06]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/06/index.html
+[Layout 07]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/07/index.html
 
 [lesson_01]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/lessons/lesson_01/page_1.html
 [lesson_02]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/lessons/lesson_02/index.html
