@@ -39,6 +39,9 @@ Project ver 1.2.0.16.0
 - [lesson_09_06] - Зелёная голова с кислой миной :D
 - [lesson_09_07] - Fixed header
 
+## Адаптивные примеры
+- [adaptive_01] - Пример №1
+
 ### FIX'ы
 - отсутствуют
 
@@ -72,3 +75,5 @@ Project ver 1.2.0.16.0
 
 [lesson_09_06]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/lessons/lesson_09/06/index.html
 [lesson_09_07]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/lessons/lesson_09/07/index.html
+
+[adaptive_01]: http://htmlpreview.github.io/?https://github.com/kroobeet/layouts-html-css/blob/master/LAYOUTS/lessons/adaptive/01/index.html
