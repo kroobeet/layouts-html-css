@@ -1,5 +1,5 @@
 # layouts-html-css
-Project ver 1.0.0.16.0
+Project ver 1.2.0.16.0
 
 ## Просмотр layouts
 - [Layout 01] - Макет 01 (Готов)
@@ -11,7 +11,7 @@ Project ver 1.0.0.16.0
 ## Новые layouts
 
 - [Layout 06] - Макет 06 (Готов)
-- [Layout 07] - Макет 07 (В процессе вёрстки)
+- [Layout 07] - Макет 07 (Готов)
 
 ## Просмотр lessons
 - [lesson_01] - три страницы
